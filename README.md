@@ -5,7 +5,7 @@ Question-Answering-System (QAS):
 Application link: wikianswers.herokuapp.com
 A factoid based question answering system
 
-Screenshot of system
+
 
 QAS is a system that automatically answer questions posed by humans in natural language query. Natural language (e.g. English) is the common way of sharing knowledge.
 
@@ -18,7 +18,7 @@ is a web-based QAS.
 answer open-domain fact based questions.
 uses wikipedia and google search pages to extract concise answers.
 Block diagram of the system:
-Block diagram of system
+
 
 Setup Instructions
 
