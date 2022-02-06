@@ -12,12 +12,18 @@ QAS is a system that automatically answer questions posed by humans in natural l
 Characteristics of the factoid based QAS:
 The Question Answering System (QAS):
 
-tries to answer factoid based questions.
-provides concise facts about the question. For example, "where is Taj Mahal located?", “Who is the father of nation of India?”.
-is a web-based QAS.
+It tries to answer factoid based questions.
+
+It provides concise facts about the question. For example, "where is Taj Mahal located?", “Who is the father of nation of India?”.
+
+It is a web-based QAS.
+
 answer open-domain fact based questions.
+
 uses wikipedia and google search pages to extract concise answers.
-Block diagram of the system:
+
+
+
 
 
 Setup Instructions
